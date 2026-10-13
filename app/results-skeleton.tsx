@@ -10,7 +10,7 @@ export function ResultsSkeleton() {
         </div>
         <div className="h-12 w-28 rounded-full bg-zinc-700" />
       </div>
-      <div className="relative h-[calc(100dvh-12rem)] min-h-96 overflow-hidden rounded-xl border border-zinc-700 bg-zinc-800">
+      <div className="relative min-h-64 overflow-hidden rounded-xl border border-zinc-700 bg-zinc-800 md:min-h-96">
         <div className="skeleton-sheen" />
         <div className="flex flex-col gap-3 p-4">
           {Array.from({ length: 8 }, (_, index) => (
