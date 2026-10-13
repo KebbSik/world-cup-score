@@ -304,7 +304,7 @@ export function ResultsTable({ judges, source }: ResultsTableProps) {
         </button>
       </div>
 
-      <div className="@container hidden max-h-[calc(100dvh-12rem)] min-h-96 overflow-auto overscroll-x-contain rounded-xl border border-zinc-700 bg-zinc-800 shadow-sm md:block">
+      <div className="@container hidden h-[calc(100dvh-12rem)] min-h-96 overflow-auto overscroll-x-contain rounded-xl border border-zinc-700 bg-zinc-800 shadow-sm md:block">
         <table className="w-full min-w-max border-collapse text-left text-sm">
           <thead className="sticky top-0 z-10 text-xs uppercase tracking-wide text-zinc-200">
             <tr className="border-b border-zinc-700">
@@ -422,7 +422,7 @@ export function ResultsTable({ judges, source }: ResultsTableProps) {
         </table>
       </div>
 
-      <div className="flex flex-col gap-3 md:hidden">
+      <div className="flex h-[calc(100dvh-12rem)] min-h-96 flex-col gap-3 overflow-auto md:hidden">
         {visibleRows.map((row) => {
           const cellBg = row.advances ? "bg-emerald-800" : "bg-zinc-800";
           const detailState = details.get(row.id);
