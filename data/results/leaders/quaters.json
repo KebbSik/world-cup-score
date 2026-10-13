@@ -1,0 +1,917 @@
+{
+  "id": "quaters",
+  "judges": [
+    "Gero R.R",
+    "Melvin Beltran",
+    "Adrian Ros",
+    "Carlos Segura",
+    "Cristain Garcia",
+    "Carlos Redondo",
+    "Masa Nakagiri",
+    "Nacho Hernandez",
+    "Tono Kan",
+    "Sammy"
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "VICTOR VICTOR",
+      "country": "Japan",
+      "advances": true,
+      "confirmedAt": 3,
+      "majority": 7,
+      "placements": [
+        14,
+        2,
+        2,
+        5,
+        1,
+        3,
+        3,
+        1,
+        1,
+        10
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Victor martos mercado",
+      "country": "Spain",
+      "advances": true,
+      "confirmedAt": 6,
+      "majority": 6,
+      "placements": [
+        2,
+        13,
+        6,
+        17,
+        1,
+        6,
+        6,
+        6,
+        9,
+        24
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Yeison Acevedo",
+      "country": "Colombia",
+      "advances": true,
+      "confirmedAt": 7,
+      "majority": 6,
+      "placements": [
+        1,
+        13,
+        9,
+        7,
+        31,
+        1,
+        3,
+        3,
+        16,
+        1
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Rafael Nardon",
+      "country": "Brazil",
+      "advances": true,
+      "confirmedAt": 7,
+      "majority": 6,
+      "placements": [
+        4,
+        13,
+        3,
+        7,
+        1,
+        5,
+        9,
+        1,
+        19,
+        44
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Andi BS",
+      "country": "Spain",
+      "advances": true,
+      "confirmedAt": 8,
+      "majority": 7,
+      "placements": [
+        21,
+        1,
+        9,
+        1,
+        9,
+        8,
+        1,
+        8,
+        6,
+        6
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Jerem Dos Reis",
+      "country": "France",
+      "advances": true,
+      "confirmedAt": 8,
+      "majority": 6,
+      "placements": [
+        4,
+        10,
+        1,
+        1,
+        1,
+        8,
+        11,
+        3,
+        37,
+        10
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Gabriele Di Battista",
+      "country": "Italy",
+      "advances": true,
+      "confirmedAt": 10,
+      "majority": 6,
+      "placements": [
+        24,
+        28,
+        9,
+        7,
+        10,
+        21,
+        3,
+        8,
+        31,
+        3
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Daniel Kachlon",
+      "country": "Israel",
+      "advances": true,
+      "confirmedAt": 11,
+      "majority": 6,
+      "placements": [
+        7,
+        23,
+        9,
+        1,
+        15,
+        10,
+        9,
+        11,
+        12,
+        21
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Angel Isaza",
+      "country": "Colombia",
+      "advances": true,
+      "confirmedAt": 12,
+      "majority": 6,
+      "placements": [
+        9,
+        8,
+        22,
+        7,
+        15,
+        10,
+        12,
+        16,
+        34,
+        6
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "YERIN RIOS",
+      "country": "Colombia",
+      "advances": true,
+      "confirmedAt": 15,
+      "majority": 6,
+      "placements": [
+        11,
+        6,
+        3,
+        17,
+        15,
+        26,
+        12,
+        16,
+        4,
+        16
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "Leonardo Pafumi",
+      "country": "Italy",
+      "advances": true,
+      "confirmedAt": 15,
+      "majority": 6,
+      "placements": [
+        7,
+        35,
+        9,
+        24,
+        1,
+        2,
+        25,
+        7,
+        15,
+        16
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "Iman Anwar",
+      "country": "United Kingdom",
+      "advances": true,
+      "confirmedAt": 15,
+      "majority": 6,
+      "placements": [
+        15,
+        35,
+        9,
+        15,
+        39,
+        44,
+        12,
+        34,
+        2,
+        2
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Owen Van Eer",
+      "country": "Netherlands",
+      "advances": true,
+      "confirmedAt": 17,
+      "majority": 6,
+      "placements": [
+        18,
+        6,
+        9,
+        17,
+        1,
+        7,
+        8,
+        22,
+        19,
+        31
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "Nicolás Silva",
+      "country": "Uruguay",
+      "advances": true,
+      "confirmedAt": 19,
+      "majority": 6,
+      "placements": [
+        18,
+        20,
+        28,
+        17,
+        24,
+        10,
+        7,
+        19,
+        17,
+        24
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Jeremy Tang",
+      "country": "Australia",
+      "advances": true,
+      "confirmedAt": 19,
+      "majority": 6,
+      "placements": [
+        41,
+        13,
+        28,
+        7,
+        39,
+        35,
+        19,
+        13,
+        5,
+        6
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "Chicho Llerena",
+      "country": "Ecuador",
+      "advances": true,
+      "confirmedAt": 20,
+      "majority": 7,
+      "placements": [
+        24,
+        11,
+        39,
+        37,
+        20,
+        13,
+        2,
+        20,
+        2,
+        10
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "alejandro gallego toro",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 20,
+      "majority": 6,
+      "placements": [
+        6,
+        20,
+        9,
+        17,
+        21,
+        21,
+        40,
+        22,
+        18,
+        6
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "Ashley Baldwin",
+      "country": "United Kingdom",
+      "advances": false,
+      "confirmedAt": 22,
+      "majority": 6,
+      "placements": [
+        21,
+        20,
+        9,
+        5,
+        34,
+        45,
+        21,
+        37,
+        22,
+        24
+      ]
+    },
+    {
+      "rank": 19,
+      "name": "Rafael Davila Sosa",
+      "country": "Mexico",
+      "advances": false,
+      "confirmedAt": 23,
+      "majority": 6,
+      "placements": [
+        15,
+        23,
+        9,
+        7,
+        24,
+        13,
+        31,
+        28,
+        23,
+        31
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "Keymo Vincent",
+      "country": "France",
+      "advances": false,
+      "confirmedAt": 23,
+      "majority": 6,
+      "placements": [
+        17,
+        8,
+        23,
+        17,
+        39,
+        17,
+        31,
+        28,
+        39,
+        10
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "David Mendez",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        40,
+        35,
+        39,
+        44,
+        11,
+        17,
+        12,
+        24,
+        12,
+        3
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "Cristian Hagen",
+      "country": "Netherlands",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        44,
+        12,
+        23,
+        24,
+        24,
+        42,
+        23,
+        3,
+        39,
+        31
+      ]
+    },
+    {
+      "rank": 23,
+      "name": "jeremy muñoz",
+      "country": "Ecuador",
+      "advances": false,
+      "confirmedAt": 26,
+      "majority": 6,
+      "placements": [
+        11,
+        3,
+        39,
+        45,
+        11,
+        3,
+        40,
+        26,
+        43,
+        21
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "Nicolò Pozzi",
+      "country": "Italy",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 7,
+      "placements": [
+        27,
+        4,
+        8,
+        32,
+        37,
+        27,
+        26,
+        16,
+        39,
+        10
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Koh Watanabe",
+      "country": "Japan",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        9,
+        17,
+        9,
+        27,
+        8,
+        32,
+        20,
+        32,
+        28,
+        31
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Wesley Oliveira",
+      "country": "Brazil",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        36,
+        31,
+        27,
+        1,
+        13,
+        38,
+        34,
+        24,
+        6,
+        16
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "elias Alejandro",
+      "country": "Peru",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        27,
+        23,
+        28,
+        15,
+        14,
+        13,
+        29,
+        44,
+        34,
+        16
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "Juan Gabriel Diaz",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        29,
+        17,
+        23,
+        27,
+        15,
+        37,
+        17,
+        13,
+        34,
+        31
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Sebastian camilo Cardona zapata",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        21,
+        4,
+        45,
+        27,
+        39,
+        28,
+        24,
+        32,
+        26,
+        10
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Leif Otto Gehrig Bjornholt",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 28,
+      "majority": 7,
+      "placements": [
+        39,
+        41,
+        28,
+        27,
+        21,
+        20,
+        28,
+        39,
+        12,
+        24
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "Caio Zhou de Abreu",
+      "country": "Germany",
+      "advances": false,
+      "confirmedAt": 28,
+      "majority": 6,
+      "placements": [
+        30,
+        41,
+        28,
+        17,
+        29,
+        28,
+        31,
+        11,
+        10,
+        21
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "Deiby Poveda",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 29,
+      "majority": 6,
+      "placements": [
+        3,
+        23,
+        39,
+        7,
+        29,
+        21,
+        34,
+        13,
+        31,
+        31
+      ]
+    },
+    {
+      "rank": 33,
+      "name": "Yury Pikhun",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 30,
+      "majority": 6,
+      "placements": [
+        30,
+        17,
+        9,
+        42,
+        34,
+        33,
+        34,
+        26,
+        30,
+        24
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "Luca Cecere",
+      "country": "Italy",
+      "advances": false,
+      "confirmedAt": 31,
+      "majority": 7,
+      "placements": [
+        11,
+        31,
+        28,
+        7,
+        31,
+        33,
+        34,
+        20,
+        8,
+        38
+      ]
+    },
+    {
+      "rank": 35,
+      "name": "Adriana Rissi",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 32,
+      "majority": 6,
+      "placements": [
+        32,
+        35,
+        6,
+        32,
+        15,
+        38,
+        34,
+        10,
+        23,
+        38
+      ]
+    },
+    {
+      "rank": 36,
+      "name": "Guillermo Gonzalez Velazquez",
+      "country": "Mexico",
+      "advances": false,
+      "confirmedAt": 32,
+      "majority": 6,
+      "placements": [
+        34,
+        28,
+        28,
+        32,
+        44,
+        30,
+        12,
+        41,
+        19,
+        38
+      ]
+    },
+    {
+      "rank": 37,
+      "name": "Alfred CISS",
+      "country": "Switzerland",
+      "advances": false,
+      "confirmedAt": 33,
+      "majority": 6,
+      "placements": [
+        33,
+        35,
+        23,
+        24,
+        31,
+        41,
+        34,
+        34,
+        31,
+        24
+      ]
+    },
+    {
+      "rank": 38,
+      "name": "Nikita Laba",
+      "country": "Individual Neutral Athlete",
+      "advances": false,
+      "confirmedAt": 34,
+      "majority": 6,
+      "placements": [
+        18,
+        28,
+        39,
+        43,
+        7,
+        25,
+        40,
+        34,
+        28,
+        42
+      ]
+    },
+    {
+      "rank": 39,
+      "name": "Carlito Chinito",
+      "country": "China",
+      "advances": false,
+      "confirmedAt": 34,
+      "majority": 6,
+      "placements": [
+        45,
+        41,
+        28,
+        27,
+        34,
+        16,
+        18,
+        41,
+        23,
+        42
+      ]
+    },
+    {
+      "rank": 40,
+      "name": "Felipe Garcia",
+      "country": "Brazil",
+      "advances": false,
+      "confirmedAt": 35,
+      "majority": 6,
+      "placements": [
+        35,
+        23,
+        38,
+        37,
+        24,
+        43,
+        22,
+        28,
+        42,
+        16
+      ]
+    },
+    {
+      "rank": 41,
+      "name": "Bruno Almazan",
+      "country": "Mexico",
+      "advances": false,
+      "confirmedAt": 36,
+      "majority": 7,
+      "placements": [
+        36,
+        31,
+        39,
+        36,
+        39,
+        21,
+        30,
+        43,
+        26,
+        3
+      ]
+    },
+    {
+      "rank": 42,
+      "name": "Alex Delgado",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 36,
+      "majority": 6,
+      "placements": [
+        36,
+        31,
+        28,
+        37,
+        24,
+        38,
+        26,
+        39,
+        37,
+        31
+      ]
+    },
+    {
+      "rank": 43,
+      "name": "Javi Durango",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 37,
+      "majority": 6,
+      "placements": [
+        42,
+        45,
+        5,
+        37,
+        21,
+        30,
+        40,
+        28,
+        10,
+        38
+      ]
+    },
+    {
+      "rank": 44,
+      "name": "Daniel Camacho",
+      "country": "Ecuador",
+      "advances": false,
+      "confirmedAt": 38,
+      "majority": 6,
+      "placements": [
+        43,
+        44,
+        28,
+        37,
+        37,
+        35,
+        40,
+        38,
+        44,
+        24
+      ]
+    },
+    {
+      "rank": 45,
+      "name": "Andres Izquierdo",
+      "country": "Peru",
+      "advances": false,
+      "confirmedAt": 40,
+      "majority": 6,
+      "placements": [
+        26,
+        35,
+        9,
+        32,
+        45,
+        17,
+        40,
+        45,
+        45,
+        44
+      ]
+    }
+  ]
+}

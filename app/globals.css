@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0a0a0a;
+  --foreground: #ededed;
 }
 
 @theme inline {
@@ -23,4 +23,106 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-background {
+  background-image:
+    linear-gradient(rgb(10 10 10 / 0.58), rgb(10 10 10 / 0.66)),
+    url("/background.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes panel-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.skeleton-sheen {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.14), transparent);
+  animation: shimmer 1.15s ease-in-out infinite;
+}
+
+.panel-in {
+  animation: panel-in 220ms ease;
+}
+
+.modal-backdrop {
+  animation: fade-in 180ms ease;
+}
+
+.modal-panel {
+  animation: rise-in 220ms ease;
+}
+
+.details-panel {
+  display: grid;
+  grid-template-rows: 1fr;
+  opacity: 1;
+  transition:
+    grid-template-rows 280ms ease,
+    opacity 280ms ease;
+}
+
+.details-panel[data-state="closing"] {
+  grid-template-rows: 0fr;
+  opacity: 0;
+}
+
+@starting-style {
+  .details-panel[data-state="open"] {
+    grid-template-rows: 0fr;
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-sheen,
+  .panel-in,
+  .modal-backdrop,
+  .modal-panel {
+    animation: none;
+  }
+
+  .details-panel,
+  .details-panel[data-state="closing"] {
+    transition: none;
+  }
 }

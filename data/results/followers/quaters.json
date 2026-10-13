@@ -1,0 +1,917 @@
+{
+  "id": "quaters",
+  "judges": [
+    "Klaudia Perdek",
+    "Migle",
+    "Gatica",
+    "Paz",
+    "Gabriella",
+    "Ivana",
+    "Polina",
+    "Silvia Jimenzes",
+    "Liza",
+    "Sammy"
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Silvia Benitez Garcia",
+      "country": "Spain",
+      "advances": true,
+      "confirmedAt": 4,
+      "majority": 6,
+      "placements": [
+        4,
+        1,
+        13,
+        1,
+        4,
+        3,
+        1,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Melany Mejia",
+      "country": "Colombia",
+      "advances": true,
+      "confirmedAt": 4,
+      "majority": 6,
+      "placements": [
+        8,
+        8,
+        3,
+        3,
+        4,
+        3,
+        26,
+        7,
+        1,
+        1
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Giovana Brandi",
+      "country": "Brazil",
+      "advances": true,
+      "confirmedAt": 5,
+      "majority": 6,
+      "placements": [
+        5,
+        4,
+        19,
+        1,
+        2,
+        11,
+        4,
+        1,
+        12,
+        6
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Emilia Narel",
+      "country": "Lithuania",
+      "advances": true,
+      "confirmedAt": 6,
+      "majority": 6,
+      "placements": [
+        2,
+        11,
+        2,
+        6,
+        15,
+        3,
+        4,
+        10,
+        36,
+        4
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Tayler Stinnett",
+      "country": "United States",
+      "advances": true,
+      "confirmedAt": 9,
+      "majority": 6,
+      "placements": [
+        1,
+        1,
+        9,
+        11,
+        2,
+        11,
+        26,
+        2,
+        9,
+        11
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Monika Dickerson",
+      "country": "Japan",
+      "advances": true,
+      "confirmedAt": 10,
+      "majority": 6,
+      "placements": [
+        13,
+        10,
+        18,
+        11,
+        4,
+        11,
+        1,
+        3,
+        9,
+        1
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Mathilde Lamata",
+      "country": "France",
+      "advances": true,
+      "confirmedAt": 11,
+      "majority": 6,
+      "placements": [
+        13,
+        7,
+        41,
+        11,
+        4,
+        7,
+        29,
+        3,
+        2,
+        24
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "rebecca sagarnaga",
+      "country": "United States",
+      "advances": true,
+      "confirmedAt": 12,
+      "majority": 6,
+      "placements": [
+        27,
+        12,
+        4,
+        10,
+        15,
+        1,
+        10,
+        18,
+        15,
+        3
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Allisor Alexandra",
+      "country": "Romania",
+      "advances": true,
+      "confirmedAt": 13,
+      "majority": 7,
+      "placements": [
+        13,
+        1,
+        29,
+        11,
+        1,
+        20,
+        10,
+        13,
+        12,
+        41
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Grace Uchida",
+      "country": "Japan",
+      "advances": true,
+      "confirmedAt": 13,
+      "majority": 6,
+      "placements": [
+        42,
+        43,
+        7,
+        21,
+        13,
+        3,
+        13,
+        10,
+        5,
+        17
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "Noelia Otero",
+      "country": "Spain",
+      "advances": true,
+      "confirmedAt": 16,
+      "majority": 6,
+      "placements": [
+        11,
+        9,
+        1,
+        21,
+        4,
+        16,
+        1,
+        18,
+        17,
+        31
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "Elena Heshmat",
+      "country": "Greece",
+      "advances": true,
+      "confirmedAt": 16,
+      "majority": 6,
+      "placements": [
+        8,
+        4,
+        16,
+        4,
+        4,
+        27,
+        20,
+        18,
+        6,
+        24
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Jenni Soto",
+      "country": "Colombia",
+      "advances": true,
+      "confirmedAt": 19,
+      "majority": 6,
+      "placements": [
+        13,
+        22,
+        19,
+        11,
+        15,
+        10,
+        39,
+        44,
+        2,
+        42
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "Virginia Peidró",
+      "country": "Spain",
+      "advances": true,
+      "confirmedAt": 20,
+      "majority": 6,
+      "placements": [
+        21,
+        14,
+        9,
+        8,
+        21,
+        20,
+        6,
+        22,
+        26,
+        6
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Adriana Drozdowicz",
+      "country": "Poland",
+      "advances": true,
+      "confirmedAt": 21,
+      "majority": 6,
+      "placements": [
+        23,
+        39,
+        19,
+        11,
+        33,
+        9,
+        7,
+        10,
+        21,
+        24
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "anie peña",
+      "country": "Venezuela, Bolivarian Republic of",
+      "advances": true,
+      "confirmedAt": 21,
+      "majority": 6,
+      "placements": [
+        27,
+        31,
+        16,
+        21,
+        40,
+        16,
+        10,
+        18,
+        4,
+        31
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "Laura Puchades",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 22,
+      "majority": 6,
+      "placements": [
+        40,
+        15,
+        15,
+        11,
+        13,
+        11,
+        39,
+        22,
+        43,
+        42
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "Alexandra Yurgel",
+      "country": "Individual Neutral Athlete",
+      "advances": false,
+      "confirmedAt": 22,
+      "majority": 6,
+      "placements": [
+        11,
+        22,
+        22,
+        42,
+        33,
+        37,
+        20,
+        13,
+        21,
+        31
+      ]
+    },
+    {
+      "rank": 19,
+      "name": "Nicole Sukhomlina",
+      "country": "Belgium",
+      "advances": false,
+      "confirmedAt": 23,
+      "majority": 6,
+      "placements": [
+        42,
+        15,
+        23,
+        21,
+        33,
+        11,
+        20,
+        38,
+        45,
+        17
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "Susana Barrientos Gonzalez",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        3,
+        28,
+        29,
+        7,
+        15,
+        37,
+        8,
+        3,
+        29,
+        24
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "Jovana Rakočević",
+      "country": "Serbia",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        30,
+        15,
+        29,
+        11,
+        24,
+        20,
+        9,
+        29,
+        31,
+        17
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "Marina Marcuello",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        13,
+        15,
+        39,
+        29,
+        11,
+        7,
+        19,
+        31,
+        32,
+        24
+      ]
+    },
+    {
+      "rank": 23,
+      "name": "Noa Keren",
+      "country": "Israel",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        23,
+        34,
+        12,
+        8,
+        24,
+        37,
+        36,
+        16,
+        17,
+        31
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "Vika Lassak",
+      "country": "Poland",
+      "advances": false,
+      "confirmedAt": 24,
+      "majority": 6,
+      "placements": [
+        21,
+        20,
+        5,
+        21,
+        21,
+        30,
+        29,
+        41,
+        24,
+        31
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Nuria Díaz",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 25,
+      "majority": 6,
+      "placements": [
+        36,
+        20,
+        25,
+        21,
+        30,
+        24,
+        13,
+        26,
+        32,
+        6
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Klaudia Kundera",
+      "country": "Poland",
+      "advances": false,
+      "confirmedAt": 26,
+      "majority": 6,
+      "placements": [
+        5,
+        4,
+        35,
+        38,
+        11,
+        16,
+        29,
+        26,
+        27,
+        11
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "Illary Salute",
+      "country": "Australia",
+      "advances": false,
+      "confirmedAt": 27,
+      "majority": 6,
+      "placements": [
+        36,
+        26,
+        29,
+        38,
+        24,
+        27,
+        26,
+        13,
+        41,
+        11
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "Alma Adika",
+      "country": "Israel",
+      "advances": false,
+      "confirmedAt": 28,
+      "majority": 6,
+      "placements": [
+        23,
+        28,
+        35,
+        29,
+        24,
+        37,
+        20,
+        28,
+        20,
+        45
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Laia De la Fuente",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 29,
+      "majority": 6,
+      "placements": [
+        32,
+        41,
+        29,
+        36,
+        4,
+        1,
+        17,
+        3,
+        27,
+        31
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Kaisa Roon",
+      "country": "Estonia",
+      "advances": false,
+      "confirmedAt": 29,
+      "majority": 6,
+      "placements": [
+        19,
+        37,
+        8,
+        21,
+        29,
+        19,
+        34,
+        37,
+        34,
+        17
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "Laura Romero",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 29,
+      "majority": 6,
+      "placements": [
+        13,
+        22,
+        35,
+        29,
+        24,
+        30,
+        18,
+        38,
+        9,
+        44
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "Natalia Mejía",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 29,
+      "majority": 6,
+      "placements": [
+        19,
+        28,
+        24,
+        29,
+        33,
+        45,
+        34,
+        45,
+        12,
+        9
+      ]
+    },
+    {
+      "rank": 33,
+      "name": "Gabby Cernova",
+      "country": "Sweden",
+      "advances": false,
+      "confirmedAt": 30,
+      "majority": 6,
+      "placements": [
+        35,
+        25,
+        43,
+        11,
+        38,
+        30,
+        13,
+        31,
+        23,
+        15
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "Sara Bilancia",
+      "country": "Italy",
+      "advances": false,
+      "confirmedAt": 30,
+      "majority": 6,
+      "placements": [
+        5,
+        37,
+        29,
+        34,
+        15,
+        30,
+        44,
+        30,
+        36,
+        17
+      ]
+    },
+    {
+      "rank": 35,
+      "name": "Vera Duarte",
+      "country": "Portugal",
+      "advances": false,
+      "confirmedAt": 30,
+      "majority": 6,
+      "placements": [
+        27,
+        39,
+        27,
+        11,
+        30,
+        24,
+        20,
+        41,
+        36,
+        39
+      ]
+    },
+    {
+      "rank": 36,
+      "name": "Reute Is",
+      "country": "Israel",
+      "advances": false,
+      "confirmedAt": 31,
+      "majority": 6,
+      "placements": [
+        34,
+        31,
+        35,
+        34,
+        40,
+        20,
+        20,
+        7,
+        6,
+        31
+      ]
+    },
+    {
+      "rank": 37,
+      "name": "Amélie Roger",
+      "country": "France",
+      "advances": false,
+      "confirmedAt": 33,
+      "majority": 6,
+      "placements": [
+        45,
+        19,
+        14,
+        44,
+        33,
+        27,
+        39,
+        33,
+        35,
+        17
+      ]
+    },
+    {
+      "rank": 38,
+      "name": "Candela Girón Damas",
+      "country": "Spain",
+      "advances": false,
+      "confirmedAt": 34,
+      "majority": 6,
+      "placements": [
+        44,
+        34,
+        27,
+        38,
+        21,
+        37,
+        39,
+        33,
+        17,
+        24
+      ]
+    },
+    {
+      "rank": 39,
+      "name": "Maeliss Morin",
+      "country": "France",
+      "advances": false,
+      "confirmedAt": 35,
+      "majority": 6,
+      "placements": [
+        8,
+        43,
+        26,
+        43,
+        30,
+        26,
+        36,
+        35,
+        36,
+        15
+      ]
+    },
+    {
+      "rank": 40,
+      "name": "Shay Varga",
+      "country": "Sweden",
+      "advances": false,
+      "confirmedAt": 35,
+      "majority": 6,
+      "placements": [
+        23,
+        45,
+        11,
+        21,
+        40,
+        36,
+        13,
+        35,
+        44,
+        31
+      ]
+    },
+    {
+      "rank": 41,
+      "name": "Jhoselyn Hernández",
+      "country": "Ecuador",
+      "advances": false,
+      "confirmedAt": 36,
+      "majority": 7,
+      "placements": [
+        30,
+        26,
+        42,
+        36,
+        38,
+        44,
+        33,
+        22,
+        36,
+        24
+      ]
+    },
+    {
+      "rank": 42,
+      "name": "Leydi Jhojana Calle Bedoya",
+      "country": "Colombia",
+      "advances": false,
+      "confirmedAt": 36,
+      "majority": 6,
+      "placements": [
+        36,
+        12,
+        44,
+        29,
+        40,
+        30,
+        39,
+        41,
+        15,
+        11
+      ]
+    },
+    {
+      "rank": 43,
+      "name": "Emma Marie ABDEL-NOUR",
+      "country": "Egypt",
+      "advances": false,
+      "confirmedAt": 37,
+      "majority": 6,
+      "placements": [
+        32,
+        34,
+        39,
+        4,
+        40,
+        37,
+        44,
+        22,
+        41,
+        17
+      ]
+    },
+    {
+      "rank": 44,
+      "name": "Juliana Chouraki",
+      "country": "Israel",
+      "advances": false,
+      "confirmedAt": 37,
+      "majority": 6,
+      "placements": [
+        39,
+        31,
+        45,
+        38,
+        15,
+        37,
+        29,
+        16,
+        30,
+        39
+      ]
+    },
+    {
+      "rank": 45,
+      "name": "tolkyn khassenova",
+      "country": "Kazakhstan",
+      "advances": false,
+      "confirmedAt": 40,
+      "majority": 6,
+      "placements": [
+        41,
+        41,
+        5,
+        44,
+        45,
+        30,
+        36,
+        40,
+        24,
+        4
+      ]
+    }
+  ]
+}
